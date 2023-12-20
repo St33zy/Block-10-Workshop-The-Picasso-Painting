@@ -1,1 +1,2 @@
 # Block-10-Workshop-The-Picasso-Painting
+Had a really hard to with this one figuring out positioning and using flexbox. I need to take more time to learn and understand positioning more with CSS and understand hiearchy structures I think. Was struggling with media query and positioning elements on top of eachother.
